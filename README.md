@@ -1,5 +1,5 @@
 ### What is this?
-Here you can find a few implementations of PageRank in Python. No libraries are used. This was a learning experiment. There are few versions that all use power method.
+Here you can find a few implementations of PageRank in Python 2.7. No libraries are used. This was a learning experiment. There are few versions that all use power method.
 
 * main.py - first implementation that is very slow and shouldn't be used
 * improve.py - fastest implementation that does 1000 nodes in a 1,5 seconds
